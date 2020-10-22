@@ -1,5 +1,6 @@
 # *_*coding:utf-8 *_*
 import subprocess
+from typing import List
 
 from pydantic import BaseModel
 from pydantic import Field
